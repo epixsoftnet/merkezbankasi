@@ -1,6 +1,6 @@
 {
   "name": "merkezbankasi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Türkiye Cumhuriyeti Merkez Bankası Döviz Kurları",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,12 @@
     "kur",
     "merkez bankasi",
     "usd to try",
-    "euro to try"
+    "euro to try",
+    "tcmb",
+    "tcmb doviz kuru",
+    "tcmb-doviz-kuru",
+    "tcmb exchange rates",
+    "tcmb-exchange-rates"
   ],
   "author": "Epixsoft",
   "license": "MIT",

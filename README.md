@@ -1,15 +1,15 @@
-# MerkezBankasi
+# Merkez Bankasi Döviz Kuru
 
-###Türkiye Cumhuriyeti Merkez Bankası Döviz Kurları
+Türkiye Cumhuriyeti Merkez Bankası Döviz Kurları
 
 
 ----------------------------------------------------------------
-####Kullanımı
+Kullanımı
 
     const merkezbankasi = require('merkezbankasi');
     merkezbankasi.kurbilgisi().then(console.log).catch(console.error)
 ----------------------------------------------------------------
-#### Çıktısı
+Çıktısı
 
     {
         Unit: 1,
